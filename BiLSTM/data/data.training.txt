@@ -1,0 +1,975 @@
+1	Xiaomi_Mi	B-ORG	V	O	0	root
+2	11T	I-ORG	M	O	3	det
+3	8GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Mi	B-ORG	V	O	0	root
+2	11T	I-ORG	M	O	1	det
+3	256	I-ORG	M	O	1	det
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Mi	B-ORG	N	O	0	root
+2	11T	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	12GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Mi	B-ORG	N	O	0	root
+2	11T	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	256GB	I-ORG	M	O	1	det
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A02s	I-ORG	Np	O	1	nmod
+4	3GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A02s	I-ORG	Np	O	1	nmod
+4	32GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	1	vmod
+3	2GB	I-ORG	M	O	1	vmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	dob
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A02s	I-ORG	Np	O	1	nmod
+4	4GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A02s	I-ORG	Np	O	1	nmod
+4	64GB	I-ORG	Np	O	1	nmod
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A12	I-ORG	Np	I-MISC	1	nmod
+3	3GB	I-ORG	M	I-MISC	0	root
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A12	I-ORG	Np	I-MISC	1	nmod
+3	32GB	I-ORG	M	I-MISC	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	nmod
+2	3	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	nmod
+2	3	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	2GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	0	root
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A12	I-ORG	Np	O	1	nmod
+4	4GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	4	sub
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A12	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	M	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	6GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	6GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Active	B-ORG	N	O	0	root
+2	3	I-ORG	M	O	1	det
+3	6GB	I-ORG	CH	O	1	punct
+
+1	Vsmart_Active	B-ORG	N	O	0	root
+2	3	I-ORG	M	O	1	det
+3	64GB	I-ORG	CH	O	1	punct
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A52	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	4	sub
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A52	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	M	O	0	root
+
+1	Realme	B-ORG	N	O	3	nmod
+2	6	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Realme	B-ORG	N	O	3	nmod
+2	6	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Samsung	B-ORG	Np	O	0	root
+2	Galaxy	I-ORG	Np	O	1	nmod
+3	S20	I-ORG	Ny	O	1	nmod
+4	FE	I-ORG	Ny	O	3	nmod
+5	8GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	S20	I-ORG	Np	O	1	nmod
+4	FE	I-ORG	Ny	O	1	nmod
+5	256GB	I-ORG	M	O	4	det
+
+1	Vivo	B-ORG	Nc	O	0	root
+2	Y12s	I-ORG	Np	O	1	nmod
+3	(	I-ORG	CH	O	1	punct
+4	2021	I-ORG	M	O	1	tmp
+5	)	I-ORG	CH	O	1	punct
+6	3GB	I-ORG	M	O	1	det
+
+1	Vivo	B-ORG	Nc	O	0	root
+2	Y12s	I-ORG	Np	O	1	nmod
+3	(	I-ORG	CH	O	1	punct
+4	2021	I-ORG	M	O	1	tmp
+5	)	I-ORG	CH	O	1	punct
+6	32GB	I-ORG	M	O	1	det
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A52	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	4	sub
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A52	I-ORG	Np	O	1	nmod
+4	256GB	I-ORG	M	O	0	root
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A12	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	4	sub
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A12	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	M	O	0	root
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	3	det
+3	6GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	1	vmod
+3	128GB	I-ORG	M	O	1	vmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A21s	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A21s	I-ORG	Np	O	1	nmod
+4	64GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Aris	B-ORG	Nc	O	0	root
+2	8GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Aris	B-ORG	N	O	0	root
+2	128GB	I-ORG	M	O	1	det
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	dob
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	2GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	0	root
+2	4	I-ORG	M	O	1	det
+3	16GB	I-ORG	M	O	1	det
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A51	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	4	sub
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A51	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	M	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	64GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	dob
+
+1	Vivo	B-ORG	Nc	O	0	root
+2	Y12s	I-ORG	Np	O	1	nmod
+3	3GB	I-ORG	CH	O	1	punct
+
+1	Vivo	B-ORG	V	O	0	root
+2	Y12s	I-ORG	Np	O	1	dob
+3	32GB	I-ORG	M	O	2	det
+
+1	Vsmart_Aris	B-ORG	Nc	O	0	root
+2	8GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Aris	B-ORG	N	O	0	root
+2	128GB	I-ORG	M	O	1	det
+
+1	Realme	B-ORG	N	O	0	root
+2	C3	I-ORG	Ny	O	1	nmod
+3	3GB	I-ORG	Np	O	1	nmod
+
+1	Realme	B-ORG	N	O	0	root
+2	C3	I-ORG	Ny	O	1	nmod
+3	32GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	1	vmod
+3	2GB	I-ORG	M	O	1	vmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Mi	B-ORG	N	O	0	root
+2	10T	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	5G	I-ORG	M	O	5	det
+5	8GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Mi	B-ORG	N	O	0	root
+2	10T	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	5G	I-ORG	M	O	5	det
+5	128GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	O	4	sub
+2	Galaxy_S	I-ORG	Np	O	1	nmod
+3	21+	I-ORG	M	O	4	det
+4	5G	I-ORG	Nu	O	0	root
+5	8GB	I-ORG	CH	O	4	punct
+
+1	Samsung	B-ORG	Np	O	4	sub
+2	Galaxy_S	I-ORG	Np	O	1	nmod
+3	21+	I-ORG	M	O	4	det
+4	5G	I-ORG	Nu	O	0	root
+5	256GB	I-ORG	M	O	4	det
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A21s	I-ORG	Np	O	1	nmod
+4	3GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A21s	I-ORG	Np	O	1	nmod
+4	32GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A52	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	4	sub
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A52	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	M	O	0	root
+
+1	Realme	B-ORG	N	O	0	root
+2	5i	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	nmod
+
+1	Realme	B-ORG	N	O	0	root
+2	5i	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	nmod
+
+1	Realme	B-ORG	N	O	0	root
+2	C3i	I-ORG	N	O	1	nmod
+3	2GB	I-ORG	M	O	1	det
+
+1	Realme	B-ORG	N	O	0	root
+2	C3i	I-ORG	N	O	1	nmod
+3	32GB	I-ORG	M	O	1	det
+
+1	Samsung	B-ORG	Np	O	6	sub
+2	Galaxy	I-ORG	Np	O	1	nmod
+3	S21	I-ORG	Ny	O	1	nmod
+4	Ultra	I-ORG	Np	O	3	nmod
+5	5G	I-ORG	M	O	6	det
+6	12GB	I-ORG	Nu	O	0	root
+
+1	Samsung	B-ORG	Np	O	6	sub
+2	Galaxy	I-ORG	Np	O	1	nmod
+3	S21	I-ORG	Np	O	1	nmod
+4	Ultra	I-ORG	Np	O	1	nmod
+5	5G	I-ORG	Ny	O	1	nmod
+6	256GB	I-ORG	M	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9s	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9s	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Nokia	B-ORG	N	B-MISC	0	root
+2	8	I-ORG	M	I-MISC	1	det
+3	.	I-ORG	CH	O	1	punct
+4	3G	I-ORG	Ny	O	1	nmod
+5	B	I-ORG	Np	O	1	nmod
+
+1	Nokia	B-ORG	N	B-MISC	0	root
+2	5G	I-ORG	Np	I-MISC	1	nmod
+
+1	Samsung	B-ORG	Np	O	4	sub
+2	Galaxy_S	I-ORG	Np	O	1	nmod
+3	21+	I-ORG	M	O	4	det
+4	5G	I-ORG	Nu	O	0	root
+5	8GB	I-ORG	CH	O	4	punct
+
+1	Samsung	B-ORG	Np	O	4	sub
+2	Galaxy_S	I-ORG	Np	O	1	nmod
+3	21+	I-ORG	M	O	4	det
+4	5G	I-ORG	Nu	O	0	root
+5	128GB	I-ORG	M	O	4	det
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A12	I-ORG	Np	I-MISC	1	nmod
+3	4GB	I-ORG	M	I-MISC	0	root
+
+1	OPPO	B-ORG	Nc	B-MISC	0	root
+2	A12	I-ORG	Np	I-MISC	1	nmod
+3	64GB	I-ORG	CH	O	1	punct
+
+1	Xiaomi_Mi_Poco	B-ORG	V	O	0	root
+2	F2	I-ORG	Ny	O	1	loc
+3	Pro	I-ORG	Np	O	2	nmod
+4	8GB	I-ORG	Np	O	2	nmod
+
+1	Xiaomi_Mi_Poco	B-ORG	V	O	0	root
+2	F2	I-ORG	Ny	O	1	loc
+3	Pro	I-ORG	Np	O	2	nmod
+4	256GB	I-ORG	M	O	2	det
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9C	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	dob
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A12	I-ORG	Np	I-MISC	1	nmod
+3	3GB	I-ORG	M	I-MISC	0	root
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A12	I-ORG	Np	I-MISC	1	nmod
+3	32GB	I-ORG	M	I-MISC	0	root
+
+1	Nokia	B-ORG	N	O	3	sub
+2	5.3	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Nokia	B-ORG	N	O	3	sub
+2	5.3	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9A	I-ORG	M	O	1	vmod
+3	2GB	I-ORG	M	O	1	vmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9A	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	dob
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	3	det
+3	5G	I-ORG	Nu	O	1	nmod
+4	4GB	I-ORG	M	O	3	det
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	3	det
+3	5G	I-ORG	Nu	O	1	nmod
+4	128GB	I-ORG	M	O	3	det
+
+1	Xiaomi_Mi_Poco	B-ORG	V	O	0	root
+2	F2	I-ORG	Ny	O	1	loc
+3	Pro	I-ORG	Np	O	2	nmod
+4	6GB	I-ORG	Np	O	2	nmod
+
+1	Xiaomi_Mi_Poco	B-ORG	V	O	0	root
+2	F2	I-ORG	Ny	O	1	loc
+3	Pro	I-ORG	Np	O	2	nmod
+4	128GB	I-ORG	M	O	2	det
+
+1	Realme	B-ORG	N	O	0	root
+2	5	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	4GB	I-ORG	Np	O	1	nmod
+
+1	Realme	B-ORG	N	O	0	root
+2	5	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Joy	B-ORG	N	O	3	nmod
+2	3	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Joy	B-ORG	N	O	0	root
+2	3	I-ORG	M	O	1	det
+3	64GB	I-ORG	CH	O	1	punct
+
+1	Vsmart_Aris	B-ORG	Nc	O	0	root
+2	6GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Aris	B-ORG	Nc	O	0	root
+2	64GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Realme	B-ORG	N	O	3	nmod
+2	6	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Realme	B-ORG	N	O	3	nmod
+2	6	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10S	I-ORG	M	O	3	det
+3	8GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10S	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	2GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	0	root
+2	4	I-ORG	M	O	1	det
+3	16GB	I-ORG	M	O	1	det
+
+1	Realme	B-ORG	N	O	0	root
+2	5i	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Realme	B-ORG	N	O	0	root
+2	5i	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Vsmart_Joy	B-ORG	N	O	0	root
+2	3	I-ORG	M	O	1	det
+3	2GB	I-ORG	M	O	1	det
+
+1	Vsmart_Joy	B-ORG	N	O	3	nmod
+2	3	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	64GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	5	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	0	root
+
+1	Realme	B-ORG	N	O	3	nmod
+2	6	I-ORG	M	O	3	det
+3	8GB	I-ORG	Nu	O	0	root
+
+1	Realme	B-ORG	N	O	3	nmod
+2	6	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Mi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Lite	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Mi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Lite	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Masstel	B-ORG	N	O	0	root
+2	X5	I-ORG	M	O	1	det
+3	FamiGB	I-ORG	N	O	1	nmod
+4	già	I-ORG	A	O	1	nmod
+
+1	Masstel	B-ORG	N	O	0	root
+2	X5	I-ORG	M	O	3	det
+3	người	I-ORG	N	O	1	nmod
+4	già	I-ORG	A	O	3	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A72	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	4	sub
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A72	I-ORG	Ny	O	1	nmod
+4	256GB	I-ORG	M	O	0	root
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A31	I-ORG	Np	I-MISC	1	nmod
+3	4GB	I-ORG	M	I-MISC	0	root
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A31	I-ORG	Np	I-MISC	1	nmod
+3	128GB	I-ORG	M	I-MISC	0	root
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	8A	I-ORG	M	O	1	vmod
+3	2GB	I-ORG	M	O	1	vmod
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	8A	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	3	det
+3	6GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Redmi	B-ORG	V	O	0	root
+2	9T	I-ORG	M	O	1	vmod
+3	128GB	I-ORG	M	O	1	vmod
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Star	B-ORG	N	O	3	punct
+2	4	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	64GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	6GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	3GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	32GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Mi_POCO	B-ORG	V	O	0	root
+2	X3	I-ORG	M	O	3	det
+3	NFC	I-ORG	Ny	O	1	dob
+4	6GB	I-ORG	Np	O	3	nmod
+
+1	Xiaomi_Mi_POCO	B-ORG	V	O	0	root
+2	X3	I-ORG	M	O	3	det
+3	NFC	I-ORG	Ny	O	1	dob
+4	128GB	I-ORG	M	O	3	det
+
+1	Xiaomi_Mi	B-ORG	N	O	0	root
+2	10T	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	5G	I-ORG	M	O	5	det
+5	8GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Mi	B-ORG	N	O	0	root
+2	10T	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	5G	I-ORG	Ny	O	1	nmod
+5	256GB	I-ORG	M	O	1	det
+
+1	OPPO	B-ORG	Nc	B-MISC	0	root
+2	A31	I-ORG	Np	I-MISC	1	nmod
+3	6GB	I-ORG	CH	O	1	punct
+
+1	OPPO	B-ORG	Ny	B-MISC	3	sub
+2	A31	I-ORG	Np	I-MISC	1	nmod
+3	128GB	I-ORG	M	I-MISC	0	root
+
+1	OPPO	B-ORG	Ny	B-MISC	4	sub
+2	A5	I-ORG	Np	I-MISC	1	nmod
+3	2020	I-ORG	M	I-MISC	4	det
+4	4GB	I-ORG	Nu	O	0	root
+
+1	OPPO	B-ORG	Ny	B-MISC	4	sub
+2	A5	I-ORG	Np	I-MISC	1	nmod
+3	2020	I-ORG	M	I-MISC	4	det
+4	128GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	6GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	3	tpc
+2	10	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Mi	B-ORG	V	O	0	root
+2	11	I-ORG	M	O	4	det
+3	5G	I-ORG	M	O	4	det
+4	8GB	I-ORG	Nu	O	1	dob
+
+1	Xiaomi_Mi	B-ORG	A	O	3	nmod
+2	11	I-ORG	M	O	3	det
+3	5G	I-ORG	Nu	O	0	root
+4	256GB	I-ORG	M	O	3	det
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	9	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A02s	I-ORG	Np	O	1	nmod
+4	A025	I-ORG	Np	O	1	nmod
+5	4GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	B-MISC	0	root
+2	Galaxy	I-ORG	Np	I-MISC	1	nmod
+3	A02s	I-ORG	Np	O	1	nmod
+4	A025	I-ORG	Np	O	1	nmod
+5	64GB	I-ORG	Np	O	1	nmod
+
+1	Vsmart_Active	B-ORG	N	O	3	nmod
+2	3	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Vsmart_Active	B-ORG	N	O	0	root
+2	3	I-ORG	M	O	1	det
+3	64GB	I-ORG	CH	O	1	punct
+
+1	Vsmart_Active	B-ORG	N	O	0	root
+2	3	I-ORG	M	O	1	det
+3	6GB	I-ORG	CH	O	1	punct
+
+1	Vsmart_Active	B-ORG	N	O	0	root
+2	3	I-ORG	M	O	1	det
+3	64GB	I-ORG	CH	O	1	punct
+
+1	Realme	B-ORG	N	O	0	root
+2	5	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Np	O	1	nmod
+
+1	Realme	B-ORG	N	O	0	root
+2	5	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	Np	O	1	nmod
+
+1	Samsung	B-ORG	Np	O	6	sub
+2	Galaxy	I-ORG	Np	O	1	nmod
+3	S21	I-ORG	Ny	O	1	nmod
+4	Ultra	I-ORG	Np	O	3	nmod
+5	5G	I-ORG	M	O	6	det
+6	12GB	I-ORG	Nu	O	0	root
+
+1	Samsung	B-ORG	Np	O	6	sub
+2	Galaxy	I-ORG	Np	O	1	nmod
+3	S21	I-ORG	Ny	O	1	nmod
+4	Ultra	I-ORG	Np	O	3	nmod
+5	5G	I-ORG	M	O	6	det
+6	128GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	1	nmod
+
+1	Xiaomi_Redmi	B-ORG	N	O	0	root
+2	8	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	1	nmod
+
+1	Nokia	B-ORG	N	O	3	sub
+2	5.4	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Nokia	B-ORG	N	O	3	sub
+2	5.4	I-ORG	M	O	3	det
+3	128GB	I-ORG	Nu	O	0	root
+
+1	Nokia	B-ORG	N	O	3	sub
+2	3.4	I-ORG	M	O	3	det
+3	4GB	I-ORG	Nu	O	0	root
+
+1	Nokia	B-ORG	N	O	3	sub
+2	3.4	I-ORG	M	O	3	det
+3	64GB	I-ORG	Nu	O	0	root
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	8GB	I-ORG	Ny	O	1	nmod
+5	Mi_Fan_Festival	I-ORG	Np	O	1	nmod
+
+1	Xiaomi_Redmi_Note	B-ORG	N	O	0	root
+2	10	I-ORG	M	O	1	det
+3	Pro	I-ORG	Np	O	1	nmod
+4	128GB	I-ORG	M	O	1	det
+5	Mi_Fan_Festival	I-ORG	Np	O	1	nmod
+
